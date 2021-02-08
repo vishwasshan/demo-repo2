@@ -1,3 +1,6 @@
 # demo 2
 
-some text
+created by othet branch.
+which doesn't effect other branch
+
+## local development
